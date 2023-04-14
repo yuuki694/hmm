@@ -35,4 +35,4 @@ client.on('guildMemberAdd', member => {
   welcomeChannel.send(embed);
 });
 
-client.login('MTA5NjQzNzA5MDIwOTc3NTY5Ng.Gmkbfq.bDs2qGtkIT2KrOJkWQLVAor_cYBEZdprYJhZe4');
+client.login('your-token-goes-here');
